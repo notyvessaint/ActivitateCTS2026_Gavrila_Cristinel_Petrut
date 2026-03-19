@@ -2,8 +2,8 @@
 package ro.ase.cts.main;
 
 import ro.ase.cts.clase.MijlocTransport;
-import ro.ase.cts.factory.MijlocTransportFactory;
-import ro.ase.cts.factory.TipTransport;
+import ro.ase.cts.felmancare.factory.MijlocTransportFactory;
+import ro.ase.cts.felmancare.factory.TipTransport;
 
 public class Main {
     public static void main(String[] args) {

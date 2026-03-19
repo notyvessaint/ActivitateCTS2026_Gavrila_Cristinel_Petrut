@@ -1,4 +1,4 @@
-package ro.ase.cts.factory;
+package ro.ase.cts.felmancare.factory;
 
 import ro.ase.cts.clase.Autobuz;
 import ro.ase.cts.clase.MijlocTransport;
